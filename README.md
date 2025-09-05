@@ -17,7 +17,7 @@ This README is bilingual (Arabic & English) with interactive elements
 
 <div align="center">
 
-### 🎓 طالب هندسة معلوماتية | Computer Engineering Student
+### 🎓 طالب هندسة حاسوب | Computer Engineering Student
 ### 🏛️ جامعة دمشق | Damascus University
 ### 🛡️ متخصص في الأمن السيبراني والبرمجة | Cybersecurity & Software Development Specialist
 
